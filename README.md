@@ -65,14 +65,17 @@ Y= A⊕B
 
 
 **PROGRAM**
+
 ![WhatsApp Image 2024-11-07 at 10 11 22 AM](https://github.com/user-attachments/assets/29dc0034-f718-4641-9798-9bc0fb51d4da)
 
 **Logic symbol & Truthtable**
 
-**RTL realization Output:** 
+**RTL realization Output:**
+
 ![WhatsApp Image 2024-11-07 at 10 11 21 AM](https://github.com/user-attachments/assets/e82de0ff-6520-407f-83cc-278dd63ae4a7)
 
-**RTL**
+**TimingDiagram**
+
 ![WhatsApp Image 2024-11-07 at 10 11 22 AM (1)](https://github.com/user-attachments/assets/41ed26b0-bbbc-4dbd-9aa7-1ff6392bc468)
 
 **Result:**
