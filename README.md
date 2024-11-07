@@ -1,4 +1,6 @@
-### study-of-basic-gates
+***NAME: JENITTANJOSE J B***
+***REG NO:24006462***
+***EXPERIMENT 1 NAME:STUDY OF BASIC GATES**
 
 **AIM:** 
 
@@ -63,17 +65,16 @@ Y= A⊕B
 
 
 **PROGRAM**
+![WhatsApp Image 2024-11-07 at 10 11 22 AM](https://github.com/user-attachments/assets/29dc0034-f718-4641-9798-9bc0fb51d4da)
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
-
- Developed by: RegisterNumber: 
- 
 **Logic symbol & Truthtable**
 
 **RTL realization Output:** 
+![WhatsApp Image 2024-11-07 at 10 11 21 AM](https://github.com/user-attachments/assets/e82de0ff-6520-407f-83cc-278dd63ae4a7)
 
 **RTL**
+![WhatsApp Image 2024-11-07 at 10 11 22 AM (1)](https://github.com/user-attachments/assets/41ed26b0-bbbc-4dbd-9aa7-1ff6392bc468)
 
 **Result:**
-
+To study and verify the truth table of logic gates in Quartus II using Verilog programming successfully
 
